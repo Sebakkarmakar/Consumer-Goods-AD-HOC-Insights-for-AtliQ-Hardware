@@ -343,7 +343,7 @@ Through this project, I strengthened my understanding of:
 
 ## 🛠️ Skills Demonstrated
 
-`MySQL` `SQL` `Data Analysis` `Business Insights` `CTEs` `JOINs` `Subqueries` `Window Functions` `Power BI` `Data Validation`
+`MySQL` `SQL` `Data Analysis` `Business Insights` `CTEs` `JOINs` `Subqueries` `Window Functions` `Data Validation`
 
 ## 🙏 Acknowledgment
 
